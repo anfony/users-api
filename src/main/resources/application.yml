@@ -7,4 +7,4 @@ spring:
 
 app: 
   security: 
-    aes-secret: ${AES_SECRETKEY:change-me}
+    aes-secret: ${AES_SECRETKEY:dGVzdGluZzEyMzQ1Njc4OTBhYmNkZWZnaGlqa2xtbm8=}
