@@ -1,4 +1,4 @@
-package com.anfony.usersapi.utils;
+package com.anfony.usersapi.util;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
