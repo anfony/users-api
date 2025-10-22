@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  jackson:
+    time-zone: Indian/Antananarivo
+
+app: 
+  security: 
+    aes-secret: ${AES_SECRETKEY:change-me}
