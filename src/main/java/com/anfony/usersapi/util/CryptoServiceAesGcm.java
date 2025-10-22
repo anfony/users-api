@@ -1,6 +1,6 @@
 package com.anfony.usersapi.util;
 
-import com.anfony.usersapi.utils.AppSecurityProperties;
+import com.anfony.usersapi.util.AppSecurityProperties;
 
 import org.springframework.stereotype.Service;
 
